@@ -39,7 +39,7 @@ Vamos discutir sobre 😈 **PHP, Java, Banco de Dados... ou qualquer coisa [aqui
 
 **Linguagens:**
 <br>
-<img src="https://skillicons.dev/icons?i=php,java,c,cpp,js,ts" /><br>
+<img src="https://skillicons.dev/icons?i=php,java,kotlin,c,cpp,js,ts" /><br>
 
 **Frameworks:**
 <br>
@@ -51,7 +51,7 @@ Vamos discutir sobre 😈 **PHP, Java, Banco de Dados... ou qualquer coisa [aqui
 
 **Outros:**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,python,vscode,github,git,tailwind,npm,bootstrap" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,regex,python,vscode,github,git,tailwind,npm,bootstrap" /><br>
 </div>
 
 </div>

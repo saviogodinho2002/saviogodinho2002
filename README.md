@@ -1,69 +1,74 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saviogodinho2002.saviogodinho2002" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Alo?;teste;{{+name+}};" />
-</h1>
+<h1 align="center">Sávio Godinho Moia Gaia</h1>
 
-<h3 align="center">Formado em Ciência da Computação</h3>
+<p align="center">
+  <b>Engenheiro de Software · SaaS para transporte fluvial e gestão portuária na Amazônia</b>
+</p>
 
-
-
-
-<br/>
-
-<div align="center">
- 
-Vamos discutir sobre 😈 **PHP, Java, Banco de Dados... ou qualquer coisa [aqui](https://github.com/saviogodinho2002/saviogodinho2002/issues)**
-
-</div>
-
-<div align="center"> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/savio-godinho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:saviogmoiagaia.2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/savio-godinho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
   <a href="https://www.instagram.com/savogodinho.targz/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
-    </a>
-      
-</div>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<hr/>
+---
 
-<h2 align="center"> Tecnologias que tenho familiaridade</h2>
-<br/>
+Engenheiro de software com 3+ anos construindo plataformas SaaS para o setor de transporte fluvial e gestão portuária na Amazônia. Faço parte do desenvolvimento de um ecossistema que integra e-commerce de passagens, emissão fiscal (BPe/SEFAZ), pagamentos e controle de acesso físico — atendendo empresas de navegação, portos e passageiros na Amazônia. [Saiba mais](https://w3companhia.com/blog/yjara-viagens-inovacao-sustentavel-e-inclusiva-no-transporte-fluvial-amazonico-com-o-apoio-do-ciat](https://w3companhia.com/blog/lideranca-absoluta-como-a-w3-e-o-sistema-yjara-viagens-revolucionaram-o-transporte-fluvial-no-brasil))
+
+---
+
+### 🚀 Projetos
+
+| Projeto | Descrição |
+|---------|-----------|
+| **TechRios** | ERP SaaS para empresas de transporte fluvial — empresas,  agências, viagens, trechos, relatórios e emissão fiscal |
+| [**Porto Fácil**](https://portofacil.online/) | API REST de gestão portuária consumida por múltiplos sistemas e catracas físicas |
+| [**Yjara Viagens**](https://yjaraviagens.com/) | E-commerce de passagens fluviais |
+| [**River FIAM**](https://app.portalfiam.org/transparency-portal) | Gestão financeira e prestação de contas de projetos acadêmicos da UFOPA |
+| [**RIBBA**](https://rederibba.org) | Plataforma institucional de rede de Inovação do Baixo Amazonas |
+| [**BjMarmitaria**](https://bjmarmitaria.com) | E-commerce de refeições para campi da UFOPA |
+| [**Agente Águia**](https://agenteaguia.omentorconcursos.com.br/) | Plataforma de estudo para concursos com IA — módulo de questões, chat com IA |
+
+---
+
+### 🛠️ Stack
+
 <div align="center">
 
-**Linguagens:**
-<br>
-<img src="https://skillicons.dev/icons?i=php,java,kotlin,c,cpp,js,ts" /><br>
+**Principal**
 
-**Frameworks:**
-<br>
-<img src="https://skillicons.dev/icons?i=vue,laravel,spring,react,nodejs" /><br>
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,postgres" />
 
-**Banco de Dados:**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase" /><br>
+**Trabalho regular**
 
-**Outros:**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,regex,python,vscode,github,git,tailwind,npm,bootstrap" /><br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,nodejs,ts,redis" />
+
+**Experiência com**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,supabase,java,spring,python,mysql,firebase" />
+
+<br><br>
+
+> Profissionalmente trabalho com o stack acima, mas no tempo livre gosto de explorar **Java** e **Kotlin**.
+
 </div>
 
-</div>
+---
 
-<br/>
-<hr/>
+### 🎓 Formação
 
+**Universidade Federal do Oeste do Pará** — Bacharelado em Ciência da Computação (2020 - 2024)
 
-<br>
-<div align=center>
+---
+
+<div align="center">
   <img width=390 src="https://github-readme-streak-stats-savio.vercel.app/?user=saviogodinho2002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-drab-seven-40.vercel.app/api?username=saviogodinho2002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-drab-seven-40.vercel.app/api/top-langs/?username=saviogodinho2002&hide=CSS,HTML,VUE,blade,dockerfile&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>

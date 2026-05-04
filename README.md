@@ -20,7 +20,7 @@
 
 ---
 
-Engenheiro de software com 3+ anos construindo plataformas SaaS para o setor de transporte fluvial e gestão portuária na Amazônia. Faço parte do desenvolvimento de um ecossistema que integra e-commerce de passagens, emissão fiscal (BPe/SEFAZ), pagamentos e controle de acesso físico — atendendo empresas de navegação, portos e passageiros na Amazônia. [Saiba mais](https://w3companhia.com/blog/yjara-viagens-inovacao-sustentavel-e-inclusiva-no-transporte-fluvial-amazonico-com-o-apoio-do-ciat](https://w3companhia.com/blog/lideranca-absoluta-como-a-w3-e-o-sistema-yjara-viagens-revolucionaram-o-transporte-fluvial-no-brasil))
+Engenheiro de software com 3+ anos construindo plataformas SaaS para o setor de transporte fluvial e gestão portuária na Amazônia. Faço parte do desenvolvimento de um ecossistema que integra e-commerce de passagens, emissão fiscal (BPe/SEFAZ), pagamentos e controle de acesso físico — atendendo empresas de navegação, portos e passageiros na Amazônia. [Saiba mais](https://w3companhia.com/blog/yjara-viagens-inovacao-sustentavel-e-inclusiva-no-transporte-fluvial-amazonico-com-o-apoio-do-ciat)
 
 ---
 

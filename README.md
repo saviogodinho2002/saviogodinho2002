@@ -28,7 +28,7 @@ Engenheiro de software com 3+ anos construindo plataformas SaaS para o setor de 
 
 | Projeto | Descrição |
 |---------|-----------|
-| **TechRios** | ERP SaaS para empresas de transporte fluvial — empresas,  agências, viagens, trechos, relatórios e emissão fiscal |
+| [**TechRios**](https://techrios.online/) | ERP SaaS para empresas de transporte fluvial — empresas,  agências, viagens, trechos, relatórios e emissão fiscal |
 | [**Porto Fácil**](https://portofacil.online/) | API REST de gestão portuária consumida por múltiplos sistemas e catracas físicas |
 | [**Yjara Viagens**](https://yjaraviagens.com/) | E-commerce de passagens fluviais |
 | [**River FIAM**](https://app.portalfiam.org/transparency-portal) | Gestão financeira e prestação de contas de projetos acadêmicos da UFOPA |

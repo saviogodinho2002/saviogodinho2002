@@ -66,6 +66,8 @@ Engenheiro de software com 3+ anos construindo plataformas SaaS para o setor de 
 
 **Universidade Federal do Oeste do Pará** — Bacharelado em Ciência da Computação (2020 - 2024)
 
+**Universidade Federal do Oeste do Pará** — Mestrado em Computação - Pesquisando segurança em integrações de sistemas com LLMs (2026 - 2028)
+
 ---
 
 <div align="center">
